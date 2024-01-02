@@ -18,62 +18,77 @@
         {
             "id" : 2,
             "route": [
-
+                40.6514447116397,
+                -73.9718120426092,
+                40.672539865005426,
+                -73.96953436120894
             ],
-            "name" : "",
-            "distance" : "",
-            "description" : "",
-            "traversal" : "",
-            "image_url" : "",
-            "best_time" : ""
+            "name" : "Brooklin Prospect Park",
+            "distance" : "2.7 km",
+            "description" : "A walk throught the Brooklyn Prospect Park",
+            "traversal" : "by foot",
+            "image_url" : "https://untappedcities.com/wp-content/uploads/2015/03/Boathouse-Prospect-Park-Brooklyn-NYC.jpg",
+            "best_time" : "37 minutes"
         },
         {
             "id" : 3,
             "route": [
-
+                38.892127936964876,
+                -77.05025059741968,
+                38.89212437670474,
+                -77.00917915348052
             ],
-            "name" : "",
-            "distance" : "",
-            "description" : "",
-            "traversal" : "",
-            "image_url" : "",
-            "best_time" : ""
+            "name" : "Contitution Ave. Washington DC",
+            "distance" : "3.7 km",
+            "description" : "Lincoln Memorial, Washington Monument, Capitol Hill and view of the white house",
+            "traversal" : "By foot",
+            "image_url" : "https://i1.wp.com/wanderingroadblog.com/wp-content/uploads/2018/03/Cap-Hill-2.jpg?resize=780%2C436&ssl=1",
+            "best_time" : "52 minutes"
         },
         {
             "id" : 4,
             "route": [
-
+                39.915516228846826,
+                -83.35898277556291,
+                39.910641214588246,
+                -83.3744376601002
             ],
-            "name" : "",
-            "distance" : "",
-            "description" : "",
-            "traversal" : "",
-            "image_url" : "",
-            "best_time" : ""
+            "name" : "OH-142 West Corn Fields",
+            "distance" : "1.4 km",
+            "description" : "Corn",
+            "traversal" : "by bike",
+            "image_url" : "https://upload.wikimedia.org/wikipedia/commons/c/cd/Dunn_Road_cornfields.jpg",
+            "best_time" : "5 minutes"
         },
         {
             "id" : 5,
             "route": [
-
+                36.093020160707084,
+                -115.17571985723934,
+                36.14720289238379,
+                -115.15513274520765
             ],
-            "name" : "",
-            "distance" : "",
-            "description" : "",
-            "traversal" : "",
-            "image_url" : "",
-            "best_time" : ""
+            "name" : "Las Vegas Boulevard",
+            "distance" : "6.6 km",
+            "description" : "Las Vegas Strip",
+            "traversal" : "by bike",
+            "image_url" : "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/01/00/2b/the-strip.jpg?w=1200&h=1200&s=1",
+            "best_time" : "21 minutes"
         },
         {
             "id" : 6,
             "route": [
-
+                37.29396101939935,
+                -113.0004672007886,
+                37.270873648063215,
+                -113.0928180251786
             ],
-            "name" : "",
-            "distance" : "",
-            "description" : "",
-            "traversal" : "",
-            "image_url" : "",
-            "best_time" : ""
+            "name" : "Zion National Park",
+            "distance" : "35 km",
+            "description" : "Zion National Park hiking trail",
+            "traversal" : "by foot",
+            "image_url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Angels_Landing.jpg/1200px-Angels_Landing.jpg",
+            "best_time" : "8 hours"
         }
     ]
 }
